@@ -16,14 +16,21 @@ By following this guide, you’ll learn how to:
 
 ---
 
-## Video Demonstration  
-▶️ [Step 1: Preparing Active Directory](https://youtu.be/LecWaZvwVhA)  
 
-▶️ [Step 2: Deploying Active Directory](https://youtu.be/P3ETSjE38Co)
+## Video Demonstrations
 
-▶️ [Step 3: Creating Users](https://youtu.be/9BPQEOOHzIU)
+### Step 1: Preparing Active Directory
+[![Step 1: Preparing Active Directory](https://img.youtube.com/vi/LecWaZvwVhA/hqdefault.jpg)](https://youtu.be/LecWaZvwVhA)
 
-▶️ [Step 4: Group Policy Management](https://youtu.be/u01zGACmFpI)
+### Step 2: Deploying Active Directory
+[![Step 2: Deploying Active Directory](https://img.youtube.com/vi/P3ETSjE38Co/hqdefault.jpg)](https://youtu.be/P3ETSjE38Co)
+
+### Step 3: Creating Users
+[![Step 3: Creating Users](https://img.youtube.com/vi/9BPQEOOHzIU/hqdefault.jpg)](https://youtu.be/9BPQEOOHzIU)
+
+### Step 4: Group Policy Management
+[![Step 4: Group Policy Management](https://img.youtube.com/vi/u01zGACmFpI/hqdefault.jpg)](https://youtu.be/u01zGACmFpI)
+
 
 ---
 
