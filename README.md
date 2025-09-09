@@ -17,7 +17,13 @@ By following this guide, you’ll learn how to:
 ---
 
 ## Video Demonstration  
-▶️ [YouTube: How to Deploy On-Premises Active Directory in Azure](https://www.youtube.com)  
+▶️ [Step 1: Preparing Active Directory](https://youtu.be/LecWaZvwVhA)  
+
+▶️ [Step 2: Deploying Active Directory](https://youtu.be/P3ETSjE38Co)
+
+▶️ [Step 3: Creating Users](https://youtu.be/9BPQEOOHzIU)
+
+▶️ [Step 4: Group Policy Management](https://youtu.be/u01zGACmFpI)
 
 ---
 
